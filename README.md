@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit-Rao-lab
+- 👋 Hi, I’m Ankit Rao
 - 👀 I’m interested in Artifical Inteligence
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Machine learning project
