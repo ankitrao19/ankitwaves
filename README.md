@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Rao
 - 👀 I’m interested in Artifical Inteligence
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Machine learning project
+- 🌱 I’m currently working on NLP and Computer vision projects
+- 💞️ I’m looking to collaborate on Natural Language processing and Computer vision
 - 📫 reach me at seeankitrao@gmail.com
 
 <!---
