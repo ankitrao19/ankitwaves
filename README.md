@@ -8,7 +8,8 @@ Currently I am working on a NLP project, the project will be updated on Git by m
 I have worked as project Associate at IIT Roorkee, on Data Science Project.
 
 
-## For more information about my projects on Data Science, Machine Learning, NLP and Computer Vision kindly visit [README.md](/Data_science-Machinelearning-Deeplearning/README.md)
+For more information about my projects on Data Science, Machine Learning, NLP and Computer Vision kindly visit [README.md](/
+Data_science-Machinelearning-Deeplearning)
 <!---
 Ankit-Rao-lab/Ankit-Rao-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
