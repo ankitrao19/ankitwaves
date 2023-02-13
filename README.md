@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Natural Language processing and Computer vision
 - 📫 reach me at seeankitrao@gmail.com
 
-Currently I am working on a NLP project, the project will be updated on Git by mid of July. 
-I have worked as project Associate at IIT Roorkee, on Data Science Project.
+Currently I am working on a NLP project.
 
 
 For more information about my projects on Data Science, Machine Learning, NLP and Computer Vision kindly visit [README.md](/Data_science-Machinelearning-Deeplearning)
