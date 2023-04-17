@@ -15,6 +15,7 @@ def Myself():
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-rao-ai-ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-rao-ai-ml" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ankitrao01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitrao01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,5 @@ def Myself():
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit-Rao-lab&show_icons=true&locale=en&layout=compact" alt="Ankit-Rao-lab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankit-Rao-lab&show_icons=true&locale=en" alt="Ankit-Rao-lab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Rao-lab&show_icons=true&locale=en" alt="Ankit-Rao-lab" /></p>
